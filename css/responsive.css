@@ -1,0 +1,227 @@
+@media(max-width: 575px){
+
+#navbar-part .navber .logo img{
+    width: 80px;
+    display: flex;
+    align-items: center;
+
+ }
+ #navbar-part .navber .btn a {
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+ #navbar-part .navber .item {
+    gap: 10px;
+    margin-left: 10px;
+}
+#navbar-part .navber .item li a {
+    font-size: 14px;
+}
+#navbar-part .btn{
+    margin-right: 10px;
+}
+
+
+#banner-part .banner {
+    padding-top: 150px;
+    padding-bottom: 653px;
+    gap: 54px;
+}
+.banner-img {
+    display: none;
+}
+.banner .banner-text h1 {
+    font-size: 22px;
+    line-height: 1%;
+    padding: 0 5px;
+}
+.banner .banner-text p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 100%;
+    margin: 20px 0;
+}
+.banner .banner-text .ban-btn {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.banner .banner-text .ban-btn a:first-child {
+    padding: 23px 13px;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.banner .banner-text .ban-btn a:last-child {
+    padding: 23px 13px;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 17px;
+}
+.bigimg{
+    display: none;
+}
+#counter-part {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.citem {
+    gap: 5px;
+    flex-direction: column;
+}
+.citem strong {
+    font-size: 15px;
+}
+.citem span {
+    font-size: 8px;
+}
+.counter {
+    padding: 10px;
+    border-radius: 5px;
+    column-gap: 15px;
+}
+
+.counter {
+    justify-content: space-around;
+}
+.citem::after {
+    display: none;
+}
+.fheading {
+    flex-direction: column;
+}
+.fheading h2 {
+    font-size: 18px;
+}
+
+.fheading p {
+    /* max-width: 100%; */
+    font-size: 12px;
+    margin-top: 10px;
+}
+.feature .transaction {
+    border-radius: 5px;
+    padding: 8px;
+}
+.feature-main {
+    margin-top: 25px;
+}
+.feature .transaction .icon {
+    gap: 8px;
+}
+.icon img{
+    max-width: 20px;
+}
+.feature .transaction {
+    /* max-width: 100%; */
+    border-radius: 10px;
+    padding: 13px;
+}
+.feature .transaction p {
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+#feature-part {
+    padding: 30px 10px;
+}
+.feature-img {
+    display: none;
+}
+.video .videobox {
+   display: none;
+}
+#review-part .review .rform {
+    display: none;
+}
+
+#video-part {
+    padding: 30px 0 15px 0;
+}
+
+.video .videotext h2 {
+    font-size: 30px;
+}
+.video .videotext .para {
+    font-size: 14px;
+    line-height: 140%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.video .videotext ul li {
+    margin-top: 15px;
+}
+.video .videotext ul li p {
+    left: 25px;
+    top: 0px;
+    font-size: 16px;
+}
+.brand {
+    margin-top: 10px;
+    column-gap: 20px;
+}
+#brand-part {
+    padding: 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* ======================================== */
+}
